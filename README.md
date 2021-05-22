@@ -20,7 +20,7 @@ Found a few open source datasets that we may use to experiment. They are mainl
 
 2. [Huggingface NER pipeline](https://huggingface.co/transformers/task_summary.html#named-entity-recognition)
 
-3. Bidirectional LSTM-CRF Models for Sequence Tagging [[Paper]](https://arxiv.org/pdf/1508.01991.pdf) [[Notebook]](notebooks/03_bi_lstm_crf.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/stephenleo/twitter-ner/blob/main/notebooks/03_bi_lstm_crf.ipynb)
+3. Bidirectional LSTM-CRF Models for Sequence Tagging [[Paper]](https://arxiv.org/pdf/1508.01991.pdf) [[Notebook]](notebooks/03_bi_lstm_crf.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stephenleo/twitter-ner/blob/main/notebooks/03_bi_lstm_crf.ipynb)
 
 | Dataset | RNN Layer | Hidden Units |  LR  | Overall F1 | Company Precision | Company Recall | Company F1 |
 |---------|:---------:|:------------:|:----:|:----------:|:-----------------:|:--------------:|:----------:|
