@@ -24,7 +24,7 @@ def read_data(file_path):
                 token = '<URL>'
             if token[0] == '@':
                 token = '<USR>'
-            
+                       
             tweet_tokens.append(token)
             tweet_tags.append(tag)
             
